@@ -1,0 +1,17 @@
+C:\Users\Edward\Desktop\proyectos\Currier\Currier\bin\Debug\Currier.exe.config
+C:\Users\Edward\Desktop\proyectos\Currier\Currier\bin\Debug\Currier.exe
+C:\Users\Edward\Desktop\proyectos\Currier\Currier\bin\Debug\Currier.pdb
+C:\Users\Edward\Desktop\proyectos\Currier\Currier\bin\Debug\MaterialSkin.dll
+C:\Users\Edward\Desktop\proyectos\Currier\Currier\obj\Debug\Currier.csprojAssemblyReference.cache
+C:\Users\Edward\Desktop\proyectos\Currier\Currier\obj\Debug\Currier.Login.resources
+C:\Users\Edward\Desktop\proyectos\Currier\Currier\obj\Debug\Currier.Properties.Resources.resources
+C:\Users\Edward\Desktop\proyectos\Currier\Currier\obj\Debug\Currier.csproj.GenerateResource.cache
+C:\Users\Edward\Desktop\proyectos\Currier\Currier\obj\Debug\Currier.csproj.CoreCompileInputs.cache
+C:\Users\Edward\Desktop\proyectos\Currier\Currier\obj\Debug\Currier.csproj.CopyComplete
+C:\Users\Edward\Desktop\proyectos\Currier\Currier\obj\Debug\Currier.exe
+C:\Users\Edward\Desktop\proyectos\Currier\Currier\obj\Debug\Currier.pdb
+C:\Users\Edward\Desktop\proyectos\Currier\Currier\obj\Debug\Currier.Pestañapacks.resources
+C:\Users\Edward\Desktop\proyectos\Currier\Currier\bin\Debug\Fozzy.Form.dll
+C:\Users\Edward\Desktop\proyectos\Currier\Currier\bin\Debug\Fozzy.Object.dll
+C:\Users\Edward\Desktop\proyectos\Currier\Currier\bin\Debug\Fozzy.Skin.dll
+C:\Users\Edward\Desktop\proyectos\Currier\Currier\bin\Debug\Fozzy.System.dll
