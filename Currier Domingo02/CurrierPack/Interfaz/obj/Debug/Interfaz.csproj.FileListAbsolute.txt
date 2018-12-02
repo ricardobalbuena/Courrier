@@ -1,0 +1,36 @@
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\bin\Debug\MaterialSkin.dll
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.csprojAssemblyReference.cache
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.Form1.resources
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.csproj.GenerateResource.cache
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.csproj.CopyComplete
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.exe
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.pdb
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\bin\Debug\Codigo.dll
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\bin\Debug\Datos.dll
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\bin\Debug\Codigo.pdb
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\bin\Debug\Datos.pdb
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.Pestañaprincipal.resources
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.Agregar.resources
+C:\Users\Jorge Vargas\Desktop\Currier-master\CurrierPack\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\Jorge Vargas\Desktop\Currier-master\CurrierPack\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\Jorge Vargas\Desktop\Currier-master\CurrierPack\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\Jorge Vargas\Desktop\Currier-master\CurrierPack\Interfaz\bin\Debug\Codigo.dll
+C:\Users\Jorge Vargas\Desktop\Currier-master\CurrierPack\Interfaz\bin\Debug\MaterialSkin.dll
+C:\Users\Jorge Vargas\Desktop\Currier-master\CurrierPack\Interfaz\bin\Debug\Datos.dll
+C:\Users\Jorge Vargas\Desktop\Currier-master\CurrierPack\Interfaz\bin\Debug\Codigo.pdb
+C:\Users\Jorge Vargas\Desktop\Currier-master\CurrierPack\Interfaz\bin\Debug\Datos.pdb
+C:\Users\Jorge Vargas\Desktop\Currier-master\CurrierPack\Interfaz\obj\Debug\Interfaz.csprojAssemblyReference.cache
+C:\Users\Jorge Vargas\Desktop\Currier-master\CurrierPack\Interfaz\obj\Debug\Interfaz.Agregar.resources
+C:\Users\Jorge Vargas\Desktop\Currier-master\CurrierPack\Interfaz\obj\Debug\Interfaz.Form1.resources
+C:\Users\Jorge Vargas\Desktop\Currier-master\CurrierPack\Interfaz\obj\Debug\Interfaz.Pestañaprincipal.resources
+C:\Users\Jorge Vargas\Desktop\Currier-master\CurrierPack\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+C:\Users\Jorge Vargas\Desktop\Currier-master\CurrierPack\Interfaz\obj\Debug\Interfaz.csproj.GenerateResource.cache
+C:\Users\Jorge Vargas\Desktop\Currier-master\CurrierPack\Interfaz\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Vargas\Desktop\Currier-master\CurrierPack\Interfaz\obj\Debug\Interfaz.csproj.CopyComplete
+C:\Users\Jorge Vargas\Desktop\Currier-master\CurrierPack\Interfaz\obj\Debug\Interfaz.exe
+C:\Users\Jorge Vargas\Desktop\Currier-master\CurrierPack\Interfaz\obj\Debug\Interfaz.pdb
