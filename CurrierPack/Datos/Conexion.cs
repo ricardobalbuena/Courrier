@@ -8,7 +8,7 @@ using System.Data.SqlClient;
 
 namespace Datos
 {
-    class Conexion
+    public class Conexion
     {
 
         private SqlConnection conexion = new SqlConnection("Data Source=LAPTOP-GFBJSSD3;DataBase=currier;Integrated Security=true");

@@ -15,3 +15,6 @@ C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\bin\Debug\Datos.dll
 C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\bin\Debug\Codigo.pdb
 C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\bin\Debug\Datos.pdb
 C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.Pestañaprincipal.resources
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.Agregar.resources
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.brpaquete.resources
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.agregarpack.resources

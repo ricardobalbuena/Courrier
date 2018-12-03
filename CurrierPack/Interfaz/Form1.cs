@@ -25,6 +25,7 @@ namespace Interfaz
             M.Theme = MaterialSkinManager.Themes.DARK;
             M.ColorScheme = new ColorScheme(Primary.Red800, Primary.Red700, Primary.Red600, Accent.Red400, TextShade.WHITE);
         }
+      
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -38,12 +39,15 @@ namespace Interfaz
             objempleado.Usuario = txtusuario.Text;
             objempleado.Password = txtcontraseña.Text;
             logear = objempleado.Iniciarsesion();
+
             try
             {
                 if (logear.Read() == true)
                 {
                     this.Hide();
                     Pestañaprincipal abrir = new Pestañaprincipal();
+                    Program.TipoUsuario = logear["TipoUsuario"].ToString();
+                    Program.Usuario = logear["Usuario"].ToString();
                     abrir.ShowDialog();
                     this.Close();
                 }
@@ -58,6 +62,14 @@ namespace Interfaz
             {
                 MessageBox.Show("Usuario incorrecto");
             }
+        }
+
+        private void materialRaisedButton1_Click_1(object sender, EventArgs e)
+        {
+            Pestañaprincipal pesprinci = new Pestañaprincipal();
+            this.Hide();
+            pesprinci.ShowDialog();
+            this.Close();
         }
     }
 }

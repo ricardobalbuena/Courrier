@@ -11,6 +11,10 @@ namespace Interfaz
         /// <summary>
         /// Punto de entrada principal para la aplicación.
         /// </summary>
+        /// 
+        public static string TipoUsuario;
+        public static string Usuario;
+
         [STAThread]
         static void Main()
         {

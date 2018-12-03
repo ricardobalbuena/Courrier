@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>3440924-box-delivery-ecommerce-package-shipping-shop-shopping_107533.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
@@ -49,11 +52,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Agregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agregar.Designer.cs">
+      <DependentUpon>Agregar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="agregarpack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="agregarpack.Designer.cs">
+      <DependentUpon>agregarpack.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarPack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarPack.Designer.cs">
+      <DependentUpon>ModificarPack.cs</DependentUpon>
     </Compile>
     <Compile Include="Pestañaprincipal.cs">
       <SubType>Form</SubType>
@@ -63,8 +84,17 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Agregar.resx">
+      <DependentUpon>Agregar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="agregarpack.resx">
+      <DependentUpon>agregarpack.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarPack.resx">
+      <DependentUpon>ModificarPack.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Pestañaprincipal.resx">
       <DependentUpon>Pestañaprincipal.cs</DependentUpon>
@@ -100,6 +130,13 @@
       <Project>{4f2ffe55-b6bd-4f38-b869-dd4552b49ee4}</Project>
       <Name>Codigo</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Datos\Datos.csproj">
+      <Project>{0fe821ff-a9c5-4272-b02b-a69160c47781}</Project>
+      <Name>Datos</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="3440924-box-delivery-ecommerce-package-shipping-shop-shopping_107533.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

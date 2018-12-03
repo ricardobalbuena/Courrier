@@ -44,6 +44,7 @@
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(125, 62);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(113, 106);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -68,6 +69,7 @@
             this.txtusuario.Depth = 0;
             this.txtusuario.Hint = "Insertar Codigo";
             this.txtusuario.Location = new System.Drawing.Point(113, 241);
+            this.txtusuario.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtusuario.MouseState = MaterialSkin.MouseState.HOVER;
             this.txtusuario.Name = "txtusuario";
             this.txtusuario.PasswordChar = '\0';
@@ -84,7 +86,7 @@
             this.materialLabel2.Depth = 0;
             this.materialLabel2.Font = new System.Drawing.Font("Roboto", 11F);
             this.materialLabel2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(222)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.materialLabel2.Location = new System.Drawing.Point(30, 293);
+            this.materialLabel2.Location = new System.Drawing.Point(29, 293);
             this.materialLabel2.MouseState = MaterialSkin.MouseState.HOVER;
             this.materialLabel2.Name = "materialLabel2";
             this.materialLabel2.Size = new System.Drawing.Size(94, 24);
@@ -97,7 +99,7 @@
             this.materialLabel3.Depth = 0;
             this.materialLabel3.Font = new System.Drawing.Font("Roboto", 11F);
             this.materialLabel3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(222)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.materialLabel3.Location = new System.Drawing.Point(30, 241);
+            this.materialLabel3.Location = new System.Drawing.Point(29, 241);
             this.materialLabel3.MouseState = MaterialSkin.MouseState.HOVER;
             this.materialLabel3.Name = "materialLabel3";
             this.materialLabel3.Size = new System.Drawing.Size(74, 24);
@@ -109,6 +111,7 @@
             this.txtcontraseña.Depth = 0;
             this.txtcontraseña.Hint = "Insertar Password";
             this.txtcontraseña.Location = new System.Drawing.Point(133, 293);
+            this.txtcontraseña.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtcontraseña.MouseState = MaterialSkin.MouseState.HOVER;
             this.txtcontraseña.Name = "txtcontraseña";
             this.txtcontraseña.PasswordChar = '\0';
@@ -121,8 +124,10 @@
             // 
             // Iniciarsesion
             // 
+            this.Iniciarsesion.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Iniciarsesion.Depth = 0;
             this.Iniciarsesion.Location = new System.Drawing.Point(113, 385);
+            this.Iniciarsesion.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Iniciarsesion.MouseState = MaterialSkin.MouseState.HOVER;
             this.Iniciarsesion.Name = "Iniciarsesion";
             this.Iniciarsesion.Primary = true;
@@ -137,7 +142,7 @@
             this.materialCheckBox1.AutoSize = true;
             this.materialCheckBox1.Depth = 0;
             this.materialCheckBox1.Font = new System.Drawing.Font("Roboto", 10F);
-            this.materialCheckBox1.Location = new System.Drawing.Point(113, 333);
+            this.materialCheckBox1.Location = new System.Drawing.Point(113, 334);
             this.materialCheckBox1.Margin = new System.Windows.Forms.Padding(0);
             this.materialCheckBox1.MouseLocation = new System.Drawing.Point(-1, -1);
             this.materialCheckBox1.MouseState = MaterialSkin.MouseState.HOVER;
@@ -161,6 +166,8 @@
             this.Controls.Add(this.txtusuario);
             this.Controls.Add(this.materialLabel1);
             this.Controls.Add(this.pictureBox1);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Load += new System.EventHandler(this.Form1_Load);
